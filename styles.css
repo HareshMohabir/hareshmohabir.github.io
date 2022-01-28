@@ -9,6 +9,8 @@ h1 {
   padding-left: 1em;
   padding-top: 1em;
   padding-bottom: 1em;
+  display: center; 
+  font-size: 20px;  
 }
 h2 {
   border: 5px solid;
@@ -17,12 +19,14 @@ h2 {
   padding-left: 1em;
   padding-top: 1em;
   padding-bottom: 1em;
+  display: center;
+  
 }
 li {
-    border:.5em solid;
-    margin:1em;
-    padding-left:1em;
-    padding-top:1em;
-    padding-bottom:1em;
+  border:.5em solid;
+  margin:1em;
+  padding-left:1em;
+  padding-top:1em;
+  padding-bottom:1em;
 }
 
