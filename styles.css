@@ -9,3 +9,18 @@ h1 {
   padding-top: 1em;
   padding-bottom: 1em;
 }
+h2 {
+  border: 5px solid;
+  border-color: #ff751a;
+  margin: 1em; 
+  padding-left: 1em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+li {
+    border:.5em solid;
+    margin:1em;
+    padding-left:1em;
+    padding-top:1em;
+    padding-bottom:1em;
+}
