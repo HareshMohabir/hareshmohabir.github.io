@@ -16,7 +16,6 @@ h1 {
   height: 1em;
   text-align: center;
   font-family: "helvetiva";
-  
 }
 
 h2 {
@@ -32,9 +31,11 @@ h2 {
   text-align: center;
   outline-width: 25em;
 }
+
 a {
     color: black;
 }
+
 a:hover {
     color: #ff7C00;
 }
