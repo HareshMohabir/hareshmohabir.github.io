@@ -12,6 +12,7 @@ h1 {
   font-size: 20px; 
   display: flex; 
   justify-content: space-around;
+  width: 20em;
 }
 
 h2 {
@@ -24,6 +25,7 @@ h2 {
   padding-bottom: 1em;
    display: flex;
     justify-content: space-around;
+  border
 }
 a {
     color: black;
