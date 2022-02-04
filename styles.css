@@ -12,7 +12,7 @@ h1 {
   font-size: 20px; 
   display: flex; 
   justify-content: space-around;
-  outline-width: 25em;
+  outline-width: 15em;
   height: 1em;
   text-align: center;
   font-family: "helvetiva";
@@ -29,7 +29,7 @@ h2 {
    display: flex;
     justify-content: space-around;
   text-align: center;
-  outline-width: 25em;
+  outline-width: 15em;
 }
 
 a {
