@@ -14,6 +14,8 @@ h1 {
   justify-content: space-around;
   width: 10em;
   height: 1em;
+  position: center; 
+  
 }
 
 h2 {
