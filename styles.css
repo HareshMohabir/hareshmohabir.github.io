@@ -41,6 +41,13 @@ body {
   margin: 2em;
   padding: 1em;
 }
+#description6 {
+  color: black;
+  border: 5px solid;
+  border-color: #ff7C00;
+  margin: 2em;
+  padding: 1em;
+
 a {
     color: black;
 }
