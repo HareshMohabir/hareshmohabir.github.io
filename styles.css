@@ -47,6 +47,13 @@ body {
   border-color: #ff7C00;
   margin: 2em;
   padding: 1em;
+  
+#description7 {
+  color: black;
+  border: 5px solid;
+  border-color: #ff7C00;
+  margin: 2em;
+  padding: 1em;
 
 a {
     color: black;
